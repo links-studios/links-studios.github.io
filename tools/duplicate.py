@@ -27,7 +27,8 @@ def is_original(path):
 
 
 def main(ext):
-    for folder in os.listdir(PHOTO_PATH):
+    for folder in sorted(os.listdir(PHOTO_PATH)):
+
         # Ignore other files like .DS_Store
         if not os.path.isdir(PHOTO_PATH + folder):
             continue
