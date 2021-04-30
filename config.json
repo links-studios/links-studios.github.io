@@ -1,14 +1,6 @@
 {
   "1. Oct 2020 - Morgue": [
     {
-      "width": 2500,
-      "height": 1524,
-      "path": "./photos/1. Oct 2020 - Morgue/DSCF0038-bw.jpg",
-      "compressed_path": "./photos/1. Oct 2020 - Morgue/DSCF0038-bw.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/1. Oct 2020 - Morgue/DSCF0038-bw.placeholder.jpg"
-    },
-    {
       "width": 1800,
       "height": 1200,
       "path": "./photos/1. Oct 2020 - Morgue/DSCF0018.jpg",
@@ -59,10 +51,10 @@
     {
       "width": 1800,
       "height": 1097,
-      "path": "./photos/1. Oct 2020 - Morgue/DSCF0038 1.jpg",
-      "compressed_path": "./photos/1. Oct 2020 - Morgue/DSCF0038 1.min.jpg",
+      "path": "./photos/1. Oct 2020 - Morgue/DSCF0038-bw.jpg",
+      "compressed_path": "./photos/1. Oct 2020 - Morgue/DSCF0038-bw.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/1. Oct 2020 - Morgue/DSCF0038 1.placeholder.jpg"
+      "placeholder_path": "./photos/1. Oct 2020 - Morgue/DSCF0038-bw.placeholder.jpg"
     },
     {
       "width": 1800,
