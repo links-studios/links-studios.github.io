@@ -14,9 +14,11 @@ body {
 
   font-size: 40px;
   font-weight: 900;
+  font-style: oblique;
   letter-spacing: 3px;
   text-transform: uppercase;
   color: #BF4C99;
+  text-shadow: 5px 5px 10px #d2b4c8;
 }
 
 section {
