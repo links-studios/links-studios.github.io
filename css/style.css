@@ -12,10 +12,11 @@ body {
   margin-top: 124px;
   margin-bottom: 32px;
 
-  font-size: 30px;
+  font-size: 40px;
   font-weight: 900;
   letter-spacing: 3px;
   text-transform: uppercase;
+  color: #FF66CC;
 }
 
 section {
