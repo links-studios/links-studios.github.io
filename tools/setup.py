@@ -61,7 +61,7 @@ def get_images(path):
             _, width, height = getImageInfo(f.read())
         if os.path.isfile(get_min_path(p)):
             print(get_min_path(p))
-            has_compressed = True
+            #has_compressed = True # disable compressed as doesn't show original
         result.append({
             'width': width,
             'height': height,
