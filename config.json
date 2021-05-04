@@ -1,6 +1,14 @@
 {
   "1. Oct 2020 - Morgue": [
     {
+      "width": 2500,
+      "height": 1524,
+      "path": "./photos/1. Oct 2020 - Morgue/DSCF0038-bw.jpg",
+      "compressed_path": "./photos/1. Oct 2020 - Morgue/DSCF0038-bw.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/1. Oct 2020 - Morgue/DSCF0038-bw.placeholder.jpg"
+    },
+    {
       "width": 1800,
       "height": 1200,
       "path": "./photos/1. Oct 2020 - Morgue/DSCF0018.jpg",
@@ -47,14 +55,6 @@
       "compressed_path": "./photos/1. Oct 2020 - Morgue/DSCF0091.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/1. Oct 2020 - Morgue/DSCF0091.placeholder.jpg"
-    },
-    {
-      "width": 1800,
-      "height": 1097,
-      "path": "./photos/1. Oct 2020 - Morgue/DSCF0038-bw.jpg",
-      "compressed_path": "./photos/1. Oct 2020 - Morgue/DSCF0038-bw.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/1. Oct 2020 - Morgue/DSCF0038-bw.placeholder.jpg"
     },
     {
       "width": 1800,
@@ -809,5 +809,166 @@
       "placeholder_path": "./photos/5. Mar 2021 - Painting and Finishing /DSCF0016.placeholder.jpg"
     }
   ],
-  "6. Apr 2021 - Studio equipment": []
+  "6. Apr 2021 - Studio equipment": [
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0087.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0087.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0087.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0092.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0092.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0092.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0084.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0084.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0084.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0091.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0091.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0091.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0056.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0056.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0056.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0095.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0095.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0095.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0094.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0094.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0094.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0055.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0055.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0055.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0083.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0083.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0083.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0068.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0068.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0068.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0105.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0105.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0105.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0071.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0071.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0071.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1322,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0064.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0064.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0064.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0070.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0070.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0070.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0051 1.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0051 1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0051 1.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0066.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0066.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0066.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0076.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0076.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0076.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1692,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0062.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0062.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0062.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0060.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0060.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0060.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1667,
+      "path": "./photos/6. Apr 2021 - Studio equipment/DSCF0075.jpg",
+      "compressed_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0075.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0075.placeholder.jpg"
+    }
+  ]
 }
