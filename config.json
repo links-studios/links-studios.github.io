@@ -970,5 +970,55 @@
       "compressed": false,
       "placeholder_path": "./photos/6. Apr 2021 - Studio equipment/DSCF0075.placeholder.jpg"
     }
+  ],
+  "7. Jun 2021 - Completed exterior": [
+    {
+      "width": 2500,
+      "height": 1406,
+      "path": "./photos/7. Jun 2021 - Completed exterior/4.IMG_E0451.jpg",
+      "compressed_path": "./photos/7. Jun 2021 - Completed exterior/4.IMG_E0451.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. Jun 2021 - Completed exterior/4.IMG_E0451.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 3333,
+      "path": "./photos/7. Jun 2021 - Completed exterior/PHOTO-2021-06-02-11-40-22.jpg",
+      "compressed_path": "./photos/7. Jun 2021 - Completed exterior/PHOTO-2021-06-02-11-40-22.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. Jun 2021 - Completed exterior/PHOTO-2021-06-02-11-40-22.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1406,
+      "path": "./photos/7. Jun 2021 - Completed exterior/3.IMG_E0475.jpg",
+      "compressed_path": "./photos/7. Jun 2021 - Completed exterior/3.IMG_E0475.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. Jun 2021 - Completed exterior/3.IMG_E0475.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1406,
+      "path": "./photos/7. Jun 2021 - Completed exterior/2.IMG_E0478.jpg",
+      "compressed_path": "./photos/7. Jun 2021 - Completed exterior/2.IMG_E0478.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. Jun 2021 - Completed exterior/2.IMG_E0478.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 3333,
+      "path": "./photos/7. Jun 2021 - Completed exterior/PHOTO-2021-06-02-11-40-24.jpg",
+      "compressed_path": "./photos/7. Jun 2021 - Completed exterior/PHOTO-2021-06-02-11-40-24.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. Jun 2021 - Completed exterior/PHOTO-2021-06-02-11-40-24.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1875,
+      "path": "./photos/7. Jun 2021 - Completed exterior/1.IMG_0320.jpg",
+      "compressed_path": "./photos/7. Jun 2021 - Completed exterior/1.IMG_0320.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. Jun 2021 - Completed exterior/1.IMG_0320.placeholder.jpg"
+    }
   ]
 }
